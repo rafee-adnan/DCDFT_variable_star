@@ -1,5 +1,5 @@
 # DCDFT_variable_star
-We used DCDFT to determine the period of the variable star. DCDFT corresponds to a curve-fitting approach using a sinusoid-plus-constant model. we can see from the data that the spacing between observations is roughly a multiple of one sidereal day.
+We used DCDFT to determine the period of a variable star. DCDFT corresponds to a curve-fitting approach using a sinusoid-plus-constant model. we can see from the data that the spacing between observations is roughly a multiple of one sidereal day.
 
 As the Nyquist frequency is roughly 0.5 perD, we considered the range of frequency to be from 0 to 0.5 for the first observation.
 
